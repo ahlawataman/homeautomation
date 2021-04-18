@@ -1,0 +1,28 @@
+name: home_automation
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  firebase_core: ^1.0.2
+  firebase_auth: ^1.0.1
+  modal_progress_hud: ^0.1.3
+  font_awesome_flutter: ^9.0.0
+  firebase_database: ^6.1.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/

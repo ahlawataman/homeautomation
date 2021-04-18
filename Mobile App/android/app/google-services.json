@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "669808833516",
+    "project_id": "home-automation-3e7da",
+    "storage_bucket": "home-automation-3e7da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669808833516:android:b87d8bd25f9ac24ab246c9",
+        "android_client_info": {
+          "package_name": "com.amanahlawat.homeautomation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669808833516-99e6i3hp6l5p7dvddhueke04crq8imm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC120O1Ooew5adrD7xyxDgpwn6JL7kb8gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669808833516-99e6i3hp6l5p7dvddhueke04crq8imm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

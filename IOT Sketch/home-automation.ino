@@ -8,8 +8,8 @@ int Flame = HIGH;
   
 DHT dht(DHTPIN, DHTTYPE);
 
-#define FIREBASE_HOST "home-automation-3e7da-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "Gnn8Vec2fVaar3r2HOxBVTgu93OdxP3S3cdCOHe1"
+#define FIREBASE_HOST "ENTER_YOURS"
+#define FIREBASE_AUTH "ENTER_YOURS"
 #define WIFI_SSID "Ahlawat 2.4Ghz"
 #define WIFI_PASSWORD "temp1234"
 

@@ -10,8 +10,8 @@ DHT dht(DHTPIN, DHTTYPE);
 
 #define FIREBASE_HOST "ENTER_YOURS"
 #define FIREBASE_AUTH "ENTER_YOURS"
-#define WIFI_SSID "Ahlawat 2.4Ghz"
-#define WIFI_PASSWORD "temp1234"
+#define WIFI_SSID "WIFI NAME"
+#define WIFI_PASSWORD "WIFI PWD"
 
 //Define FirebaseESP8266 data object
 FirebaseData firebaseData;

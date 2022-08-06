@@ -30,4 +30,4 @@ IOT <=> Firebase <=> Flutter
 
 ### Screenshots
 
-<img src="[https://camo.githubusercontent.com/...](https://github.com/ahlawataman/homeautomation/blob/main/images/12.png)" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/ahlawataman/homeautomation/blob/main/images/12.png)" width="200" height="400" />
+<img src="https://github.com/ahlawataman/homeautomation/blob/main/images/12.png" data-canonical-src="https://github.com/ahlawataman/homeautomation/blob/main/images/12.png" width="400" height="200" />

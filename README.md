@@ -30,4 +30,4 @@ IOT <=> Firebase <=> Flutter
 
 ### Screenshots
 
-![picture alt](https://github.com/ahlawataman/homeautomation/blob/main/images/12.png "Title is optional")
+![picture alt](https://github.com/ahlawataman/homeautomation/blob/main/images/12.png | width=100)

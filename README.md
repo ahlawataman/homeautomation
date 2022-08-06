@@ -6,7 +6,9 @@ A design and prototype implementation of a smart home automation system. The fol
 
 ### Screenshots
 
-<img src="https://github.com/ahlawataman/homeautomation/blob/main/images/12.png" data-canonical-src="https://github.com/ahlawataman/homeautomation/blob/main/images/12.png" width="480" height="270" /> <img src="https://github.com/ahlawataman/homeautomation/blob/main/images/12.png" data-canonical-src="https://github.com/ahlawataman/homeautomation/blob/main/images/12.png" width="480" height="270" />
+<img src="https://github.com/ahlawataman/homeautomation/blob/main/images/11.png" data-canonical-src="https://github.com/ahlawataman/homeautomation/blob/main/images/11.png" width="480" height="270" /> <img src="https://github.com/ahlawataman/homeautomation/blob/main/images/12.png" data-canonical-src="https://github.com/ahlawataman/homeautomation/blob/main/images/12.png" width="480" height="270" />
+<img src="https://github.com/ahlawataman/homeautomation/blob/main/images/3.png" data-canonical-src="https://github.com/ahlawataman/homeautomation/blob/main/images/3.png" width="480" height="270" /> <img src="https://github.com/ahlawataman/homeautomation/blob/main/images/4.png" data-canonical-src="https://github.com/ahlawataman/homeautomation/blob/main/images/4.png" width="480" height="270" />
+
 
 
 ### Project Structure

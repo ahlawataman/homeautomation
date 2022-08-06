@@ -4,6 +4,10 @@ A design and prototype implementation of a smart home automation system. The fol
 * Android & IOS app was developed using Google’s flutter kit to control home appliances.
 * Firebase cloud service was used to connect the mobile application and the home system.
 
+### Screenshots
+
+<img src="https://github.com/ahlawataman/homeautomation/blob/main/images/12.png" data-canonical-src="https://github.com/ahlawataman/homeautomation/blob/main/images/12.png" width="480" height="270" /> <img src="https://github.com/ahlawataman/homeautomation/blob/main/images/12.png" data-canonical-src="https://github.com/ahlawataman/homeautomation/blob/main/images/12.png" width="480" height="270" />
+
 
 ### Project Structure
 
@@ -27,7 +31,3 @@ IOT <=> Firebase <=> Flutter
 * Fan
 * 9V battery
 * Jumper Cables
-
-### Screenshots
-
-<img src="https://github.com/ahlawataman/homeautomation/blob/main/images/12.png" data-canonical-src="https://github.com/ahlawataman/homeautomation/blob/main/images/12.png" width="480" height="270" />

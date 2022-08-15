@@ -3,7 +3,7 @@ A design and prototype implementation of a smart home automation system. The fol
 * IoT Device: Esp32 which is a microcontroller and multiple sensors were used to build the home system.
 * Android & IOS app was developed using Google’s flutter kit to control home appliances.
 * Firebase cloud service was used to connect the mobile application and the home system.
-* APK - [LINK](https://drive.google.com/file/d/1gwJYHRgE2psNMxL9PmRECdoFzEFYlCHN/view?usp=sharing)
+* APK File - [<i>LINK</i>](https://drive.google.com/file/d/1gwJYHRgE2psNMxL9PmRECdoFzEFYlCHN/view?usp=sharing)
 
 ### Screenshots
 
